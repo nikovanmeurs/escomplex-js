@@ -28,7 +28,7 @@
     "check-types": "2.1.x",
     "escomplex": "0.2.5",
     "escomplex-ast-moz": "0.1.x",
-    "espree": "^1.6.0"
+    "espree": "^2.5.5"
   },
   "devDependencies": {
     "jshint": "2.5.x",
